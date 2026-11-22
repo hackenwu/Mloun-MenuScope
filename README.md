@@ -1,3 +1,5 @@
+**English** | [简体中文](README.zh-CN.md)
+
 # Mloun MenuScope
 
 Clean up the WordPress admin for clients and team members: **hide, block, rename and reorder admin menus** per role or user, hide plugins, and hide users — without touching any code.

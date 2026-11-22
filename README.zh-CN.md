@@ -1,4 +1,6 @@
-# Mloun MenuScope（WP 后台菜单管理）
+[English](README.md) | **简体中文**
+
+# Mloun MenuScope（美络云后台菜单管理）
 
 按**角色或单个用户**隐藏、屏蔽、重命名、拖拽排序 WordPress 后台菜单，还能隐藏插件和隐藏用户 —— 全部在后台点选，不用改代码。
 

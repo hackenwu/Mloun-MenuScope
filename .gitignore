@@ -1,0 +1,24 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Build artifacts
+*.zip
+/build/
+
+# Python bytecode (dev scripts)
+__pycache__/
+*.pyc
+
+# SVN working copy (this plugin is also mirrored to WordPress.org SVN)
+.svn/
+
+# Logs
+*.log
+
+# Dependency folders, in case the project grows
+/vendor/
+/node_modules/

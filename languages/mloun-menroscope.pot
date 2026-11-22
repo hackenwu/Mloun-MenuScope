@@ -1,0 +1,233 @@
+# Copyright (C) 2026 Mloun. All rights reserved.
+msgid ""
+msgstr ""
+#, fuzzy
+Project-Id-Version: mloun-menroscope
+POT-Creation-Date: 2026-10-16 00:00+0000
+PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE
+Last-Translator: FULL NAME <EMAIL@ADDRESS>
+Language-Team: LANGUAGE <LL@li.org>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=2; plural=(n != 1);
+
+#: includes/class-admin-page.php:37
+msgid "Settings"
+msgstr ""
+
+#: includes/class-admin-page.php:46
+msgid "MenuScope"
+msgstr ""
+
+#: includes/class-admin-page.php:71
+msgid "Delete all saved settings for this role/user?"
+msgstr ""
+
+#: includes/class-admin-page.php:296
+msgid "Sorry, you are not allowed to access this page."
+msgstr ""
+
+#: includes/class-admin-page.php:308
+msgid "Menus"
+msgstr ""
+
+#: includes/class-admin-page.php:309
+msgid "Plugins"
+msgstr ""
+
+#: includes/class-admin-page.php:310
+msgid "Users"
+msgstr ""
+
+#: includes/class-admin-page.php:318
+msgid "Mloun MenuScope"
+msgstr ""
+
+#: includes/class-admin-page.php:324
+msgid "Settings saved."
+msgstr ""
+
+#: includes/class-admin-page.php:370
+msgid "Choose a role or user in the \"Configure for\" box."
+msgstr ""
+
+#: includes/class-admin-page.php:371
+msgid "Toggle \"Hide\" or \"Block\" for menus, or type a custom name to rename them."
+msgstr ""
+
+#: includes/class-admin-page.php:372
+msgid "Drag menu items to reorder them. Click the arrow to expand submenus."
+msgstr ""
+
+#: includes/class-admin-page.php:373
+msgid "Click \"Save\" to apply the settings."
+msgstr ""
+
+#: includes/class-admin-page.php:378
+msgid "Toggle the plugins that should be hidden from them."
+msgstr ""
+
+#: includes/class-admin-page.php:383
+msgid "Toggle the users that should be invisible to everyone else."
+msgstr ""
+
+#: includes/class-admin-page.php:393
+msgid "Save"
+msgstr ""
+
+#: includes/class-admin-page.php:395
+msgid "Settings apply immediately after saving."
+msgstr ""
+
+#: includes/class-admin-page.php:401
+msgid "How to use"
+msgstr ""
+
+#: includes/class-admin-page.php:425
+msgid "Configure for"
+msgstr ""
+
+#: includes/class-admin-page.php:428
+msgid "Currently editing:"
+msgstr ""
+
+#: includes/class-admin-page.php:430
+msgid "Choose a role or a user below to edit their settings."
+msgstr ""
+
+#: includes/class-admin-page.php:448
+msgid "Delete"
+msgstr ""
+
+#: includes/class-admin-page.php:457
+msgid "Role:"
+msgstr ""
+
+#: includes/class-admin-page.php:459
+msgid "&mdash; Select role &mdash;"
+msgstr ""
+
+#: includes/class-admin-page.php:474
+msgid "User:"
+msgstr ""
+
+#: includes/class-admin-page.php:476
+msgid "&mdash; Select user &mdash;"
+msgstr ""
+
+#: includes/class-admin-page.php:484
+msgid "Tip: when both a role and a user have settings, the user settings take priority and completely override the role settings."
+msgstr ""
+
+#: includes/class-admin-page.php:509
+msgid "Drag to reorder"
+msgstr ""
+
+#: includes/class-admin-page.php:512
+msgid "Expand / collapse submenu"
+msgstr ""
+
+#: includes/class-admin-page.php:525
+msgid "Custom name"
+msgstr ""
+
+#: includes/class-admin-page.php:527
+msgid "Hide (page stays reachable)"
+msgstr ""
+
+#: includes/class-admin-page.php:529
+msgid "Hide"
+msgstr ""
+
+#: includes/class-admin-page.php:531
+msgid "Hide & block access (403)"
+msgstr ""
+
+#: includes/class-admin-page.php:533
+msgid "Block"
+msgstr ""
+
+#: includes/class-admin-page.php:558
+msgid "Menu tree is not available yet. Please reload this page."
+msgstr ""
+
+#: includes/class-admin-page.php:567
+msgid "This role/user has no accessible admin menus."
+msgstr ""
+
+#: includes/class-admin-page.php:582
+msgid "Menu"
+msgstr ""
+
+#: includes/class-admin-page.php:617
+msgid "Drag items to reorder the menu. \"Hide\" removes the menu but keeps the URL accessible. \"Block\" also blocks direct URL access with a 403 error. \"Custom name\" renames the menu for this role/user only."
+msgstr ""
+
+#: includes/class-admin-page.php:639
+msgid "This role/user cannot access the Plugins screen (missing the \"activate_plugins\" capability), so plugin visibility settings have no effect for them."
+msgstr ""
+
+#: includes/class-admin-page.php:662
+msgid "Checked plugins are hidden from the Plugins screen for this role/user. Hidden plugins stay active but cannot be deactivated, deleted or updated by them. You can also hide Mloun MenuScope itself."
+msgstr ""
+
+#: includes/class-admin-page.php:665
+msgid "Plugin"
+msgstr ""
+
+#: includes/class-admin-page.php:665
+msgid "Hidden"
+msgstr ""
+
+#: includes/class-admin-page.php:670
+msgid "(this plugin)"
+msgstr ""
+
+#: includes/class-admin-page.php:704
+msgid "Checked users are invisible to everyone else: they disappear from the Users screen, author dropdowns and their profile cannot be opened directly. They can still log in and work normally. You can hide yourself as well."
+msgstr ""
+
+#: includes/class-admin-page.php:707
+msgid "User"
+msgstr ""
+
+#: includes/class-admin-page.php:707
+msgid "Role"
+msgstr ""
+
+#: includes/class-admin-page.php:707
+msgid "Hidden from others"
+msgstr ""
+
+#: includes/class-admin-page.php:712
+msgid "(you)"
+msgstr ""
+
+#: includes/class-applier.php:225
+msgid "Access denied"
+msgstr ""
+
+#: includes/class-core.php:362
+#. This is a printf-style string; keep the placeholders (%s / %d) intact.
+msgid "Role: %s"
+msgstr ""
+
+#: includes/class-core.php:365
+#. This is a printf-style string; keep the placeholders (%s / %d) intact.
+msgid "Role: %s (missing)"
+msgstr ""
+
+#: includes/class-core.php:372
+#. This is a printf-style string; keep the placeholders (%s / %d) intact.
+msgid "User: %s"
+msgstr ""
+
+#: includes/class-core.php:375
+#. This is a printf-style string; keep the placeholders (%s / %d) intact.
+msgid "User: %s (missing)"
+msgstr ""
+
+#: includes/class-plugin-visibility.php:98
+msgid "Sorry, you are not allowed to manage this plugin."
+msgstr ""
